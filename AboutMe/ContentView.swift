@@ -30,6 +30,8 @@ struct ContentView: View {
                 .padding()
         }
         .padding()
+        .background(Color.teal)
+        .cornerRadius(20)
     }
 }
 
